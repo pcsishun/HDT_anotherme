@@ -1,0 +1,41 @@
+{
+    "runner":"WWK",
+    "btn_left":"L",
+    "btn_right":"R",
+    "attribute_pratice_name":"Positive",
+    "attribute_test_name":"Negative",
+    "target_pratice_name":"Preventive",
+    "target_test_name":"Corrective",
+    "target_pratice":[
+        {"type":"text","item":"Health insurance"},
+        { "type":"text", "item":"Family plan"},
+        { "type":"text", "item":"Annual check-up"},
+        { "type":"text", "item":"Dental scaling"},
+        {"type":"text", "item":"Stemcell banking"}],
+    "target_test":[
+        {"type":"text", "item":"Operation when investigated"},
+        {"type":"text", "item":"Massage"},
+        { "type":"text", "item":"Chiropractic"},
+        {"type":"text", "item":"Pain reliever"},
+        { "type":"text", "item":"Headache pill"},
+        {"type":"text", "item":"Cough suppressant"}],
+    "attribute_pratice":[
+        {"type":"text", "item":"Worthy"},
+        {"type":"text", "item":"Reasonable"},
+        {"type":"text", "item":"Controlable"},
+        {"type":"text", "item":"Pleasure"},
+        {"type":"text", "item":"Satisfy"}],
+    "attribute_test":[
+        {"type":"text", "item":"Unworthy"},
+        {"type":"text", "item":"Unreasonable"},
+        {"type":"text", "item":"Uncontrolable"},
+        {"type":"text", "item":"Unpleasure"},
+        {"type":"text", "item":"Unsatisfy"}],
+    "d1":false,
+    "d2":false,
+    "d3":true,
+    "d4":true,
+    "d5":false,
+    "d6":true,
+    "d7":true
+}
