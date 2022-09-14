@@ -18,13 +18,13 @@
 ////////// +++++++++++++++ ///////////
 
 const httpAPIEmotion = () => {
-    const isAPI = "https://anotherme.tech/backend";
+    const isAPI = "https://anotherme.homes/backend";
     return isAPI;
 }
 
 
 const httpApiIat = () => {
-    const isAPI = "https://anotherme.tech/backend_iat";
+    const isAPI = "https://anotherme.homes/backend_iat";
     return isAPI;
 }
 

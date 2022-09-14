@@ -17,12 +17,12 @@
 ////////// +++++++++++++++ ///////////
 
 const httpAPI = () => {
-    const isAPI = "https://anotherme.tech/backend";
+    const isAPI = "https://anotherme.homes/backend";
     return isAPI;
 }
 
 const httpAPIWordCloud = () => {
-    const isAPI = "https://anotherme.tech/backend_wordcloud";
+    const isAPI = "https://anotherme.homes/backend_wordcloud";
     return isAPI;
 }
 
